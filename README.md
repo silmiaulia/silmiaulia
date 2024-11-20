@@ -1,6 +1,6 @@
 <h2> Hello, Welcome to my page! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-👋 Hey there! I'm Silmi Aulia 👩‍💻 a junior data enthusiast and analyst who loves uncovering insights to drive smart decisions 📊. I love turning data into actionable insights to help drive decisions💡. I also have experience in machine learning, web and android development, building interactive UIs and backend systems 🔧
+👋 Hey there! I'm Silmi Aulia 👩‍💻 a junior data enthusiast and analyst who loves uncovering insights to drive smart decisions 📊. I love turning data into actionable insights to help drive decisions💡. I also have experience in machine learning, web and android development 🔧
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> more about me...  
 
