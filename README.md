@@ -7,7 +7,7 @@
 ```javascript
 const silmi = {
   pronouns: "she" | "her",
-  code: [SQL, Python, R, C, HTML, CSS, Java, Dart, Javascript],
+  code: [SQL, Python, R, C, HTML, CSS, PHP, Java, Dart, Javascript],
   tools: [Google BigQuery, Looker Studio, Power BI, Microsoft Excel, Google Colaboratory, Google Sheets, pgAdmin,
          phpMyAdmin, Jupyter Notebook, Figma, RStudio, MongoDBCompass, Visual Studio Code]
 }
